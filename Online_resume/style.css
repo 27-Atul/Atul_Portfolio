@@ -1,6 +1,24 @@
 /* GENERAL */
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+<style>
+	
+	.mode {
+			float:right;
+		}
+	.change {
+			cursor: pointer;
+			border: 1px solid #110404;
+			border-radius: 40%;
+			width: 20px;
+			text-align: center;
+			padding: 5px;
+			margin-left: 8px;
+		}
+	.dark{
+			background-color: #222;
+			color: #e6e6e6;
+		}
 
 * {
   margin: 0;
